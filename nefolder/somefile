@@ -1,1 +1,101 @@
 new file in newberanch2
+npm install  @angular
+nvm install 14.15.3  
+node install 14.15.3  
+npm install -g npm@6.14.9
+npm install  @angular/cli
+ng -help
+ng --help
+$ npm install -g n
+nvm install 14.15.3 
+ng config -g cli.warnings.versionMismatch false
+npm install -g n
+npm --version   
+npm i    
+npm install @angular/cli
+npm install -g @angular/cli @8.1.3
+npm install -g @angular/cli 8.1.3 
+npm run ng serve  
+npm install -g @angular/cli@8.1.3 
+cd C:\Users\IN03021\eclipse-workspace\DIC_MOHRE\PROD_MOHRE_UI
+code .
+ npm init
+  npm install
+  node build  
+  npm install -g @angular/cli.
+  npm install -g n
+  ng
+  npm install -g @angular/cli
+  ng version
+   node -v 
+   npm -v    
+   ng
+   node start
+   npm i node-sass
+   npm atart
+    npm i node-sass@7.0.1
+    ng -v
+    ng server
+    npm install angular-disable-browser-back-button
+    npm un angular-disable-browser-back-button  
+     npm build  
+     ng help
+      ng --version   
+      ng serve  
+      npm run build --prod 
+       npm install   
+       npm start  
+        ng build
+         npm build --prod  
+         npm start --port 8081  
+         npm i ngx-mask@13.1.13 
+         npm install --save ngx-mask@14.2.4 
+         npm run build 
+         npm start --prod  
+
+
+         git clone https://github.com/thievekan/FirstHub.git
+         git clone https://github.com/errormakesclever/githubemc1.git
+         git add text2.txt
+          cd githubemc1  
+          git add test2.txt
+          gitstatus
+          git commit -m "test1"
+          git push orgin main  
+          cd FirstHub   
+           git add thirdfille.txt
+           git commit -m "24-02-2024-commit"
+           cd FirstHub2
+            git commit -m "new folder file added"
+             git remote add origin https://github.com/thievekan/FirstHub2.git
+             git commit -m "demo file added"
+             git commited -m "new file created gitbranch1"
+             git commit -m "new file created gitbranch1"  
+             git push origin gitbranch1 
+             git diff gitbranch1    
+             git checkout gitbranch1 
+             git merge main   
+             git merge gitbranch1   
+             clear
+             git cloan https://github.com/thievekan/Self-test.git
+              git clone https://github.com/thievekan/Self-test.git
+              git branch -M main
+              git commit -m "something commit"
+              git add second self file  
+               git commit -m "first commit" 
+               git fetch origin    
+               git merge origin/main   
+               git clone https://github.com/thievekan/Self-test.git
+               git add
+               git commit -m "seconf sellf file create 2.1"
+               git push
+                git branch newbranch
+                git commit -m "newbranch created"
+                git commit -m "folder and file created"
+                git pull remote newbranch
+                git pull origin newbranch
+                cd second-filecreated
+                 git commit -m "new folder created and file"\
+                  git push origin nebranch   
+                  git checkout newbranch  
+                  git pull     
